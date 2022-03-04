@@ -1,4 +1,4 @@
-# Ultimate Devcontainer for Golang Starter  
+# Ultimate Devcontainer for Golang   
 
 clone the repo and u don't have to install go in your system
 
